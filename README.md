@@ -72,3 +72,9 @@ images/lithium_price_volatility.png
 **Borja González Garrido**
 Bachelor's Degree in Economics
 Final Grade: **9/10**
+
+## Contact
+LinkedIn:
+www.linkedin.com/in/oriol-salmeron-mundó-72bab1234
+GitHub:
+github.com/Oriol-Salmeron
