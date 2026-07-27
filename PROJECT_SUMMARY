@@ -1,0 +1,18 @@
+# Executive Summary
+Grade: 9/10
+This project analyzes the mismatch between capital expenditure (CAPEX) investments and actual demand in the European electric vehicle industry.
+Using financial analysis, econometrics and a Random Forest machine learning model, we evaluate how macroeconomic and regulatory variables affect EV adoption and investment planning.
+Key Findings:
+- Traditional forecasting methods overestimate market demand.
+- Structural breaks significantly affect forecasting accuracy.
+- Random Forest models produce more robust predictions.
+- Improved forecasting supports more efficient CAPEX allocation.
+
+Skills Demonstrated:
+- Corporate Finance
+- Financial Analysis
+- Machine Learning
+- Econometrics
+- Data Analytics
+- Risk Management
+- RStudio
