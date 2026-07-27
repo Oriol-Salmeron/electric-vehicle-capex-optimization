@@ -8,7 +8,7 @@ This project investigates the mismatch between capital expenditure (CAPEX) inves
 Using financial analysis, econometrics and machine learning techniques, we evaluate whether a Random Forest model can improve demand forecasting and support more efficient investment decisions compared to traditional linear forecasting approaches.
 
 # Research Question
-14 15How can machine learning improve CAPEX planning in the European electric vehicle industry under conditions of market uncertainty and demand volatility?
+How can machine learning improve CAPEX planning in the European electric vehicle industry under conditions of market uncertainty and demand volatility?
 # Objectives
 - Analyze the gap between EV investment plans and actual market demand.
 - Evaluate the impact of macroeconomic and regulatory variables on EV adoption.
@@ -48,19 +48,19 @@ Using financial analysis, econometrics and machine learning techniques, we evalu
 - Demand is heavily influenced by macroeconomic and regulatory shocks.
 - Random Forest models provide more robust forecasts under structural breaks.
 - Better forecasting can improve CAPEX allocation and reduce idle capacity risk.
-## Repository Contents
+# Repository Contents
 - Full thesis document
 - Key figures and visualizations
 - R code used for model development
 - Forecasting methodology
 - References and supporting materials
-## Results
+# Results
 The study suggests that Machine Learning-based forecasting can contribute to:
 - Better CAPEX allocation
 - Reduced financial risk
 - Improved investment efficiency
 - Better strategic decision-making under uncertainty
-## Project Authors
+# Project Authors
 **Oriol Salmerón Mundó**
 **Borja González Garrido**
 Bachelor's Degree in Economics
