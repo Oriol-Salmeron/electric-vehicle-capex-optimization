@@ -1,5 +1,6 @@
-# electric-vehicle-capex-optimization
+# Electric Vehicle CAPEX Optimization using Machine Learning
 Final Degree Project (9/10): Electric Vehicle CAPEX Optimization using Machine Learning.
+> Final Degree Project focused on Financial Analysis, Econometrics and Machine Learning applied to the European Electric Vehicle Industry.
 
 Final Degree Project (BSc Economics) developed by **Oriol Salmerón Mundó** and **Borja González Garrido**, awarded **9/10**.
 
