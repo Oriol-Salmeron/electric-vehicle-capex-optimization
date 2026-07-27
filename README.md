@@ -60,6 +60,13 @@ The study suggests that Machine Learning-based forecasting can contribute to:
 - Reduced financial risk
 - Improved investment efficiency
 - Better strategic decision-making under uncertainty
+## Key Visualizations
+### Model Comparison
+images/model_comparison.png
+### EV Demand Forecast
+images/demand_forecast.png
+### Lithium Price Volatility
+images/lithium_price_volatility.png
 # Project Authors
 **Oriol Salmerón Mundó**
 **Borja González Garrido**
